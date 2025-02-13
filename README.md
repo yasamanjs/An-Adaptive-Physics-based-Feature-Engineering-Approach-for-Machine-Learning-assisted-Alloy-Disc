@@ -10,6 +10,7 @@ The study introduces an **adaptive physics-based feature engineering method** th
 
 ---
 
+
 ## Overview
 
 This repository demonstrates how **physics-informed feature engineering** can significantly enhance the performance of machine learning models in alloy discovery. The adaptive encoding method integrates domain-specific physics into categorical feature representations, leading to improved model robustness and interpretability.
